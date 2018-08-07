@@ -6,3 +6,11 @@ Null Hypothesis: Business data sets from csv files and from the API key will hav
 
 Alternate Hypothesis: Business data sets from csv files and from the API key will not have the similar results such as tables, graphs, ratings, number of reviews.
 
+This project uses the Yelp Open Dataset which includes 7 files:
+- yelp_business.csv
+- yelp_business_attributes.csv
+- yelp_business_hours.csv
+- yelp_checkin.csv
+- yelp_review.csv
+- yelp_tip.csv
+- yelp_user.csv
