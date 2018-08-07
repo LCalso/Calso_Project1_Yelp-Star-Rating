@@ -1,4 +1,4 @@
-Project Proposal
+Project Proposal 
 
 Our project is to uncover the difference between using Yelp data sets from csv files and from the API key. We would like to figure out which data set is more reliable in looking for the most popular business and location. The work is presented in a detailed Jupyter notebook. 
 
