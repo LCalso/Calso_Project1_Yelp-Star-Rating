@@ -1,5 +1,4 @@
-Names: Lauren Calso
-       David Colonia
+Team: Lauren Calso and David Colonia
 
 Yelp Project Proposal 
 
